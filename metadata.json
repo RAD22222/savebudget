@@ -1,0 +1,6 @@
+{
+  "name": "Buckwheat",
+  "description": "Simple offline daily budget tracker with local Room database storage",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

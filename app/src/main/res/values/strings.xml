@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Buckwheat</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_title">Hello!</string>
+    <string name="onboarding_subtitle">Welcome to Buckwheat, let\'s save\nmoney together</string>
+    <string name="onboarding_step_1_title">Establish a budget</string>
+    <string name="onboarding_step_1_desc">Calculate approximately how much money you need for a certain period, such as a month, and enter it in the application. If you can\'t calculate, indicate it very approximately, for example, half of the salary, over time you will indicate it more and more accurately</string>
+    <string name="onboarding_step_2_title">Record every expense</string>
+    <string name="onboarding_step_2_desc">The application will calculate how much you need to spend per day to fit into the budget, write down the expenses and keep track of the budget</string>
+    <string name="onboarding_step_3_title">Spend wisely</string>
+    <string name="onboarding_step_3_desc">Over time, you will learn to feel how much you really spend and how much you need. Learn to understand whether you can spend money on a trinket right now</string>
+    <string name="set_up_a_budget">Set up a budget</string>
+
+    <!-- Budget Setup -->
+    <string name="setting_up_budget_title">Setting up a budget</string>
+    <string name="editing_budget_title">Editing budget</string>
+    <string name="no_finish_date_selected">No finish date selected</string>
+    <string name="rest_label">Rest</string>
+    <string name="currency_label">Currency</string>
+    <string name="unable_to_budget">Unable to budget</string>
+    <string name="error_enter_budget">- Enter your budget</string>
+    <string name="error_min_one_day">- Calculate the budget for at least one day</string>
+    <string name="apply">Apply</string>
+    <string name="daily_budget_preview_title">Daily budget</string>
+
+    <!-- Date Picker -->
+    <string name="choose_finish_date">Choose a finish date</string>
+    <string name="close_cd">Close</string>
+
+    <!-- Home & History -->
+    <string name="for_today">For today</string>
+    <string name="over_budget_today">Over budget</string>
+    <string name="budget_ended">Budget ended</string>
+    <string name="starting_budget">Starting budget</string>
+    <string name="no_spending_yet">No spending yet</string>
+    <string name="add_comment">Add comment</string>
+    <string name="comment_placeholder">What did you spend on?</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="undo">Undo</string>
+    <string name="expense_deleted">Expense deleted</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+
+    <!-- Budget Overview -->
+    <string name="budget_title">Budget</string>
+    <string name="left_label">Left</string>
+    <string name="spent_label">Spent</string>
+    <string name="days_left">Days left</string>
+    <string name="export_to_csv">Export to CSV</string>
+    <string name="finish_early">Finish early</string>
+    <string name="finish_early_confirm_title">Finish budget early?</string>
+    <string name="finish_early_confirm_body">This will end your current budget period and save it to your local history so you can start a new budget.</string>
+    <string name="finish">Finish</string>
+    <string name="csv_exported">Budget exported to CSV</string>
+    <string name="csv_export_failed">Could not export CSV</string>
+
+    <!-- Rest Modes -->
+    <string name="rest_always_ask">Always ask</string>
+    <string name="rest_split">Split to rest</string>
+    <string name="rest_add_today">Add to today</string>
+    <string name="rest_dialog_title">What to do with the rest?</string>
+    <string name="rest_always_ask_desc">Ask every new day how to distribute yesterday\'s leftover</string>
+    <string name="rest_split_desc">Evenly divide leftover budget across all remaining days</string>
+    <string name="rest_add_today_desc">Carry over yesterday\'s leftover directly into today\'s budget</string>
+    <string name="rest_rollover_prompt_title">Leftover from previous days</string>
+
+    <!-- Currency -->
+    <string name="currency_none">None</string>
+    <string name="select_currency_title">Currency</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="start_of_week">Start of week</string>
+    <string name="sunday">Sunday</string>
+    <string name="monday">Monday</string>
+    <string name="how_it_works">How it works</string>
+    <string name="past_budgets">Past budgets</string>
+    <string name="no_past_budgets">No completed budgets yet</string>
+    <string name="wallet_cd">Budget overview</string>
+    <string name="settings_cd">Settings</string>
+    <string name="edit_budget_cd">Edit budget</string>
+    <string name="backspace_cd">Backspace</string>
+    <string name="confirm_expense_cd">Record expense</string>
+    <string name="toggle_history_cd">Toggle spending history</string>
+    <string name="delete_expense_cd">Delete expense</string>
+</resources>
